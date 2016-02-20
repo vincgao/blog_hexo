@@ -7,13 +7,13 @@ title: Vinc
 subtitle: This is vinc gao
 description: vinc gao 's blog
 author: Vinc Gao
-language: zh
+language: zh-cn
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://vincgao.com
-root: /
+url: http://vincgao.com/blog
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -34,7 +34,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
@@ -64,14 +64,14 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 ## https://github.com/pinggod/hexo-theme-apollo
-theme: apollo
+theme: tranquilpeak
 # 在归档页面显示所有文章 by pinggod/hexo-theme-apollo
 # 需要上面安装的 hexo-generator-archive 插件支持
-archive_generator:
-    per_page: 0
-    yearly: false
-    monthly: false
-    daily: false
+# archive_generator:
+#     per_page: 0
+#     yearly: false
+#     monthly: false
+#     daily: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
