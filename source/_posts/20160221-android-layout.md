@@ -1,10 +1,15 @@
 ---
 title: Android Layout绘制
-date: 2015-03-21 15:13:48
-categories: Android
 tags: [Android]
 comments: true
-keywords: Android,文章,Layout,绘制
+keywords:
+- vinc
+- 文章
+- android
+date: 2016-02-21 16:57:01
+updated:
+clearReading: true
+categories: Android,文章,Layout,绘制
 description: Android Layout绘制
 ---
 
