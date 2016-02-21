@@ -2,9 +2,9 @@
 title: Android Layout绘制
 date: 2015-03-21 15:13:48
 categories: Android
-tags: [Hexo,测试]
-keywords: Hexo,文章,测试
-description: 这是一篇测试文章，用于测试Hexo文章文件头。
+tags: [Android]
+keywords: Android,文章,Layout,绘制
+description: Android Layout绘制
 ---
 
    > 最近对View进行了一番研究，主要参考了一下几篇blog，多数为汇总而来，之后不定期删改文章，加深理解，算是我对Android View的一些笔记吧
