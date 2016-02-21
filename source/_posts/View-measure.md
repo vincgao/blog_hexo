@@ -3,6 +3,7 @@ title: Android Layout绘制
 date: 2015-03-21 15:13:48
 categories: Android
 tags: [Android]
+comments: true
 keywords: Android,文章,Layout,绘制
 description: Android Layout绘制
 ---
@@ -203,8 +204,3 @@ measure和layout的过程都结束后，ViewRoot中的代码会继续执行并�
 不管是Button也好，TextView也好，任何一个视图都是有滚动条的，只是一般情况下我们都没有让它显示出来而已。
 
 View是不会帮我们绘制内容部分的，因此需要每个视图根据想要展示的内容来自行绘制。TextView、ImageView等类都有重写`onDraw()`，如果需要复写该方法，请记得先调用父类的方法。(类比所有ViewGroup的子类都必须重写`onLayout()`)，并且在里面执行了相当不少的绘制逻辑。绘制的方式主要是借助Canvas这个类，它会作为参数传入到`onDraw()`方法中，供给每个视图使用。Canvas这个类的用法非常丰富，基本可以把它当成一块画布，在上面绘制任意的东西。
-
-
-
-
-
