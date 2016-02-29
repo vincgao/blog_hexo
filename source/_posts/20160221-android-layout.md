@@ -1,15 +1,16 @@
 ---
 title: Android Layout绘制
-tags: [Android]
+tags:
+  - Android
 comments: true
 keywords:
-- vinc
-- 文章
-- android
+  - vinc
+  - 文章
+  - Android
 date: 2016-02-21 16:57:01
 updated:
 clearReading: true
-categories: Android,文章,Layout,绘制
+categories: Android
 description: Android Layout绘制
 ---
 
