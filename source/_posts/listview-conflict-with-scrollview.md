@@ -1,17 +1,13 @@
 ---
 title: 解决ScrollView嵌套ListView造成滑动冲突的问题
 tags:
-  - Android
+- Android
+categories:
+- Android
 comments: true
-keywords:
-  - vinc
-  - 文章
-  - Android
-clearReading: true
 date: 2016-02-29 18:26:50
 updated:
-categories: Android
-description: 解决ScrollView嵌套ListView造成滑动冲突的问题
+desc: 解决ScrollView嵌套ListView造成滑动冲突的问题
 ---
 
 参考链接：

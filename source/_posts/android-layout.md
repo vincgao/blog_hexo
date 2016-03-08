@@ -1,17 +1,13 @@
 ---
 title: Android Layout绘制
 tags:
-  - Android
+- Android
+categories:
+- Android
 comments: true
-keywords:
-  - vinc
-  - 文章
-  - Android
 date: 2016-02-21 16:57:01
 updated:
-clearReading: true
-categories: Android
-description: Android Layout绘制
+desc: Android Layout绘制
 ---
 
    > 最近对View进行了一番研究，主要参考了一下几篇blog，多数为汇总而来，之后不定期删改文章，加深理解，算是我对Android View的一些笔记吧

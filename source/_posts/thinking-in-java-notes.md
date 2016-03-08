@@ -1,17 +1,13 @@
 ---
 title: 《Java编程思想》笔记
 tags:
-  - Java
+- Java
+categories:
+- Java
 comments: true
-keywords:
-  - vinc
-  - 文章
-  - Java
-clearReading: true
 date: 2016-02-29 18:10:51
 updated:
-categories: Java
-description: 《Java编程思想》笔记
+desc: 《Java编程思想》笔记
 ---
 
 P140 到底是用组合还是继承，一个最清晰的判断办法就是问一问自己是否需要从新类向基类进行向上转型。

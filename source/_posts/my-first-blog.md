@@ -1,14 +1,13 @@
 ---
 title: 我的第一篇Blog
-tags: [瞎扯]
+tags:
+- 瞎扯
+categories:
+- 瞎扯
 comments: true
-keywords:
-- vinc
-- 文章
 date: 2016-02-21 16:20:44
 updated:
-categories: 瞎扯
-description: 我的第一篇Blog
+desc: 我的第一篇Blog
 ---
 
 周末花了两天时间，用Hexo搭建了一个简单的blog，采用了[Tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)主题，并在[Godaddy](https://sg.godaddy.com/zh/)上购买了一个域名，并将blog部署在了[Github Pages](https://pages.github.com/)上。

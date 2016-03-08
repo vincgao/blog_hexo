@@ -1,17 +1,13 @@
 ---
 title: Android Context笔记和Application误用
 tags:
-  - Android
+- Android
+categories:
+- Android
 comments: true
-keywords:
-  - vinc
-  - 文章
-  - Android
-clearReading: true
 date: 2016-02-29 18:11:19
 updated:
-categories: Android
-description: Android Context笔记和Application误用
+desc: Android Context笔记和Application误用
 ---
 
 今天看到郭霖blog有关[Android Context完全解析](http://blog.csdn.net/guolin_blog/article/details/47028975)的文章，感觉醍醐灌顶，特此记下笔记。

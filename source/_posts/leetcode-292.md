@@ -1,17 +1,13 @@
 ---
 title: LeetCode 292 - Nim Game 解析
 tags:
-  - 算法
+- 算法
+categories:
+- Android
 comments: true
-keywords:
-  - vinc
-  - 文章
-  - 算法
-clearReading: true
 date: 2016-02-29 18:11:43
 updated:
-categories: 算法
-description: leetcode 292 - Nim Game 解析
+desc: leetcode 292 - Nim Game 解析
 ---
 
 问题链接： https://leetcode.com/problems/nim-game/

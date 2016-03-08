@@ -7,14 +7,15 @@ title: Vinc's blog
 subtitle: This is vinc gao
 description: vinc gao 's blog
 author: Vinc Gao
-language: zh-cn
+# language: zh-cn
+language: en
 timezone: Asia/Shanghai
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://vincgao.com
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:title/
 permalink_defaults:
 
 # Directory
@@ -64,14 +65,14 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 ## https://github.com/pinggod/hexo-theme-apollo
-theme: tranquilpeak
+theme: apollo
 # 在归档页面显示所有文章 by pinggod/hexo-theme-apollo
 # 需要上面安装的 hexo-generator-archive 插件支持
-# archive_generator:
-#     per_page: 0
-#     yearly: false
-#     monthly: false
-#     daily: false
+archive_generator:
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -80,3 +81,4 @@ deploy:
   repo:
     github: git@github.com:vincgao/vincgao.github.io.git
     gitcafe: git@gitcafe.com:vincgao/vincgao.git
+    coding: git@git.coding.net:vincgao/blog.git

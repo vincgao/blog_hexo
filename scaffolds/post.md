@@ -1,13 +1,12 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags: [Android]
+tags:
+- Android
+categories:
+- Android
 comments: true
-keywords:
-- vinc
-- 文章
 updated:
 clearReading: true
-categories:
-description:
+desc:
 ---
