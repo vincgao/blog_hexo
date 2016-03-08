@@ -115,7 +115,7 @@ public static int getSize(int measureSpec) {
 测量阶段终极方法，在 `onMeasure(int widthMeasureSpec, int heightMeasureSpec)` 方法中调用，将计算得到的尺寸，传递给该方法，测量阶段即结束。**该方法也是必须要调用的方法，否则会报异常。**在我们在自定义视图的时候，不需要关心系统复杂的 Measure 过程，只需调用`setMeasuredDimension()`设置根据 MeasureSpec 计算得到的尺寸即可，你可以参考 ViewPagerIndicator 的 onMeasure 方法。
 
 ViewGroup 的 `measureChildren（int widthMeasureSpec, int heightMeasureSpec)` 方法对复合 View 的 Measure 流程图：
-![](http://7xp4nq.com1.z0.glb.clouddn.com/measurechildflow.png)
+![](http://7xp4nq.com1.z0.glb.clouddn.com/blog/measurechildflow.png)
 
 ### getWidth()和getMeasureWidth()的区别
 
