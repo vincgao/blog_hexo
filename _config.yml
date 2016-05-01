@@ -79,6 +79,6 @@ archive_generator:
 deploy:
   type: git
   repo:
-    github: git@github.com:vincgao/vincgao.github.io.git
-    gitcafe: git@gitcafe.com:vincgao/vincgao.git
-    coding: git@git.coding.net:vincgao/blog.git
+    github: git@github.com:vincgao/vincgao.github.io.git,master
+    # gitcafe: git@gitcafe.com:vincgao/vincgao.git
+    coding: git@git.coding.net:vincgao/blog.git,coding-pages
