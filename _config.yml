@@ -81,4 +81,4 @@ deploy:
   repo:
     github: git@github.com:vincgao/vincgao.github.io.git,master
     # gitcafe: git@gitcafe.com:vincgao/vincgao.git
-    coding: git@git.coding.net:vincgao/blog.git,coding-pages
+    coding: git@git.coding.net:vincgao/vincgao.git,coding-pages
